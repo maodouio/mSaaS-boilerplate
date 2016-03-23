@@ -17,3 +17,10 @@ tracker
 jquery 
 
 maodouio:posts-summernote
+maodouio:post-likes
+maodouio:meteor-image-upload
+
+npm-container
+
+accounts-password
+accounts-ui
