@@ -16,11 +16,12 @@ random
 tracker
 jquery 
 
-maodouio:posts-summernote
-maodouio:post-likes
+npm-container
 maodouio:meteor-image-upload
 
-npm-container
+maodouio:posts-summernote
+maodouio:post-likes
+maodouio:post-comments
 
 accounts-password
 accounts-ui
