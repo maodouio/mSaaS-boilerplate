@@ -1,0 +1,6 @@
+[submodule "post-likes"]
+        path = packages/meteor-post-likes
+        url = https://github.com/maodouio/meteor-post-likes.git
+[submodule "post-comments"]
+        path = packages/meteor-post-comments
+        url = https://github.com/maodouio/meteor-post-comments
